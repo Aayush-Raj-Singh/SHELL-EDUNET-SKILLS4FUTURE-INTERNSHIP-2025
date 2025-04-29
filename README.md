@@ -1,4 +1,4 @@
-# Shell-Edunet-Skills4Future-Internship-2025
+# SHELL-EDUNET-SKILLS4FUTURE-INTERNSHIP-2025
 
 # 🌾 Crop and Fertiliser Recommendation System using Machine Learning
 
