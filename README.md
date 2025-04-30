@@ -48,7 +48,7 @@ This project uses supervised machine learning to recommend the **most suitable c
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/crop-fertiliser-ml.git
+git clone https://github.com/Aayush-Raj-Singh/crop-fertiliser-ml.git
 cd crop-fertiliser-ml
 ```
 
