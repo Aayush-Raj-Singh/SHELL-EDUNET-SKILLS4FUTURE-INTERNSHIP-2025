@@ -135,8 +135,8 @@ This project is open-source under the **MIT License**.
 
 If you have suggestions, improvements, or would like to contribute:
 - Open an issue or submit a pull request.
-- Contact: your.email@example.com  
-- GitHub: [yourusername](https://github.com/yourusername)
+- Contact: aayush15raj0@gmail.com  
+- GitHub: [Aayush-Raj-Singh](https://github.com/Aayush-Raj-Singh)
 
 ---
 
