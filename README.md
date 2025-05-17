@@ -37,7 +37,6 @@ This project uses supervised machine learning to recommend the **most suitable c
 | Programming Lang | Python                                |
 | ML Framework     | scikit-learn, pandas, NumPy           |
 | Visualization    | Matplotlib, Seaborn, Plotly           |
-| Web UI (Optional)| Streamlit or Flask                    |
 | Dataset          | Crop Recommendation Dataset           |
 
 ---
