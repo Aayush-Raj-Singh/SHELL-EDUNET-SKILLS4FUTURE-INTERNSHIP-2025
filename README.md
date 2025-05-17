@@ -38,8 +38,7 @@ This project uses supervised machine learning to recommend the **most suitable c
 | ML Framework     | scikit-learn, pandas, NumPy           |
 | Visualization    | Matplotlib, Seaborn, Plotly           |
 | Web UI (Optional)| Streamlit or Flask                    |
-| Dataset          | Crop Recommendation Dataset (Kaggle) |
-| API (Optional)   | OpenWeatherMap                        |
+| Dataset          | Crop Recommendation Dataset           |
 
 ---
 
@@ -70,24 +69,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
 ---
-
-## 📂 Project Structure
-
-```
-crop-fertiliser-ml/
-│
-├── data/                 # Datasets used for training/testing
-├── models/               # Saved ML models
-├── notebooks/            # Jupyter notebooks for exploration
-├── app.py                # Streamlit app (optional UI)
-├── main.py               # Core logic for prediction
-├── utils.py              # Utility functions
-├── requirements.txt      # Python dependencies
-└── README.md             # Project overview
-```
-
 ---
 
 ## ✅ Deliverables
