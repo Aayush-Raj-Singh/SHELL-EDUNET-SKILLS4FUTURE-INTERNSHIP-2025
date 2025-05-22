@@ -46,8 +46,8 @@ This project uses supervised machine learning to recommend the **most suitable c
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Aayush-Raj-Singh/crop-fertiliser-ml.git
-cd crop-fertiliser-ml
+git clone https://github.com/Aayush-Raj-Singh/SHELL-EDUNET-SKILLS4FUTURE-INTERNSHIP-2025.git
+cd SHELL-EDUNET-SKILLS4FUTURE-INTERNSHIP-2025
 ```
 
 2. **Create a virtual environment (optional)**
